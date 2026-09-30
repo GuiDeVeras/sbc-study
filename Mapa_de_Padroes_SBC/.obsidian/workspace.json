@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "2b7f86aa8a35d32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "19207dcaf30795b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2ed1a7fdfe03d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Padores/Bloco_1_Raciocinio_Algoritmico/01_Guloses_e_Invariantes/Gulosos e Invariantes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gulosos e Invariantes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63ab91baa07e6201",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb8bf7727b651fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce178521537535c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "667237cd2e4e5ea4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0a63db0d8e159c0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "260fecedcaf25e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98544e152962417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "535e8c75b5bead1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "40e0507663f82b8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "82f9d2ef66681957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e4024a667363f6f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "8fe35af9fe9b6b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "c2ed1a7fdfe03d0c",
+  "lastOpenFiles": [
+    "02_Upsolving/Codeforces_977/A_Wrong_Subtraction.md",
+    "02_Upsolving/Codeforces_977/C_Less_Or_Equal.md",
+    "02_Upsolving/Codeforces_977/A_Wrong_Subtraction.md (cópia).md",
+    "02_Upsolving/Codeforces_977/A_Wrong_Subtraction.md.md",
+    "02_Upsolving/A_Wrong_Subtraction.md.md",
+    "02_Upsolving/Codeforces_977",
+    "02_Upsolving/Codeforces_977A_Wrong_Subtraction.md.md",
+    "02_Upsolving/Gulosos e Invariantes.md",
+    "01_Padores/12_Matematica_e_Teoria_dos_Numeros/Matematica e Teoria dos Numeros.md",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica/16_Geometria_Computacional_Basica/Geometria Computacional Basica.md",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica/15_Combinatoria_e_Teoria_dos_Jogos/Combinatoria e Teoria dos Jogos.md",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica/14_Teoria_dos_Numeros_e_Modulo/Matematica e Teoria dos Numeros.md",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica/13_SegTree_Fenwick_SparseTable/Consultas em Intervalos Segment Tree.md",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica/16_Geometria_Computacional_Basica",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica/15_Combinatoria_e_Teoria_dos_Jogos",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica/14_Teoria_dos_Numeros_e_Modulo",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica/13_SegTree_Fenwick_SparseTable",
+    "01_Padores/Bloco_4_Estruturas_e_Matematica",
+    "01_Padores/Block_4_Estruturas_e_Matematica/16_Geometria_Computacional_Basica/Geometria Computacional Basica.md",
+    "01_Padores/Block_4_Estruturas_e_Matematica/16_Geometria_Computacional_Basica",
+    "01_Padores/Block_4_Estruturas_e_Matematica/15_Combinatoria_e_Teoria_dos_Jogos/Combinatoria e Teoria dos Jogos.md",
+    "01_Padores/Block_4_Estruturas_e_Matematica/15_Combinatoria_e_Teoria_dos_Jogos",
+    "01_Padores/Block_4_Estruturas_e_Matematica/14_Teoria_dos_Numeros_e_Modulo/Matematica e Teoria dos Numeros.md",
+    "01_Padores/Block_4_Estruturas_e_Matematica/14_Teoria_dos_Numeros_e_Modulo",
+    "01_Padores/Block_4_Estruturas_e_Matematica/13_SegTree_Fenwick_SparseTable/Consultas em Intervalos Segment Tree.md",
+    "01_Padores/Block_4_Estruturas_e_Matematica/13_SegTree_Fenwick_SparseTable",
+    "01_Padores/Bloco_3_Programacao_Dinamica/12_DP_Avancada_Bitmask_TreeDP_LCA/DP Avancada Bitmask Tree DP.md",
+    "01_Padores/Bloco_3_Programacao_Dinamica/11_Programacao_Dinamica_Classica/09_Programacao_Dinamica_Classica.md",
+    "01_Padores/Bloco_2_Grafos/10_Fluxo_Maximo_e_Matching/Fluxo Maximo e Matching.md",
+    "01_Padores/Bloco_2_Grafos/09_MST_e_DSU/MST e DSU.md",
+    "01_Padores/Bloco_2_Grafos/08_Menor_Caminho_Dijkstra/Menor Caminho Dijkstra.md",
+    "01_Padores/Bloco_2_Grafos/07_Grafos_Avancados_SCC_Tarnjan/Grafos Avancados SCC Tarjan.md",
+    "01_Padores/Bloco_2_Grafos/06_DFS_BFS_Componentes/Travessias em Grafos DFS BFS.md",
+    "01_Padores/Bloco_1_Raciocinio_Algoritmico/05_Busca_Binaria_na_Resposta/Busca Binaria na Resposta.md",
+    "01_Padores/Bloco_1_Raciocinio_Algoritmico/04_Sweep_Line_e_Eventos/Sweep Line e Processamento de eventos.md",
+    "01_Padores/Bloco_1_Raciocinio_Algoritmico/03_Strings_KMP_Zfunc_Hashing/Strings KMP Zfunc Hashing.md"
+  ]
+}
